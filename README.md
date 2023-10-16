@@ -4,3 +4,5 @@
 <h1 align="left">Hi, I'm Taylon Silva</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylon-arch&color=yellow" alt="Profile views" /> </p>
+
+ <li>🤖 ANALYST/SUPPORT ENGINEER</li> 
