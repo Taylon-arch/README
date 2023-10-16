@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylon-arch&color=yellow" alt="Profile views" /> </p>
 
  <li>✊ Qui Audet Adipiscitur</li> 
- <li>🤖 ANALYST/SUPPORT ENGINEER</li> 
+ <li>🤖 Technical Support Analyst</li> 
  <li>🤓 Atualmente cursando ADS</li>
  <li>💻 Adquirindo mais experiência a todo momento</li>
 
