@@ -13,7 +13,7 @@
 <br><br>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=taylon&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=taylon&show_icons=true&theme=vision-friendly-dark" alt="taylon stats"/>
 </p>
 
 <!--
