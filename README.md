@@ -14,6 +14,9 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=taylon&show_icons=true&theme=vision-friendly-dark" alt="taylon stats"/>
+<a href="https://www.instagram.com/taylon_tay/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 </p>
 
 <!--
