@@ -6,5 +6,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylon-arch&color=yellow" alt="Profile views" /> </p>
 
  <li>🤖 ANALYST/SUPPORT ENGINEER</li> 
- <li>🤓 Atualmente estou cursando ADS</li>
- 
+ <li>🤓 Atualmente cursando ADS</li>
+ <li>💻 Adquirindo mais experiencia a todo momento</li>
