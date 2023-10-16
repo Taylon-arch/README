@@ -8,3 +8,7 @@
  <li>🤖 ANALYST/SUPPORT ENGINEER</li> 
  <li>🤓 Atualmente cursando ADS</li>
  <li>💻 Adquirindo mais experiência a todo momento</li>
+
+
+<br><br>
+<p align="left" style="background:yellow">
